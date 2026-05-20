@@ -12,7 +12,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iLOqsaF3b2yOYC2mfJNv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="查询补充客户信息" vertex="1">
+        <mxCell id="iLOqsaF3b2yOYC2mfJNv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#408947);fontColor=#ffffff;strokeColor=#2D7600;" value="查询补充客户信息" vertex="1">
           <mxGeometry height="60" width="120" x="80" y="80" as="geometry" />
         </mxCell>
         <mxCell id="J6gc0nSnjGuluiYEr4Ak-5" edge="1" parent="1" source="J6gc0nSnjGuluiYEr4Ak-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="J6gc0nSnjGuluiYEr4Ak-4" value="">
@@ -23,7 +23,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J6gc0nSnjGuluiYEr4Ak-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="网点主任/行长审核" vertex="1">
+        <mxCell id="J6gc0nSnjGuluiYEr4Ak-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#408947);fontColor=#ffffff;strokeColor=#2D7600;" value="网点主任/行长审核" vertex="1">
           <mxGeometry height="60" width="120" x="280" y="80" as="geometry" />
         </mxCell>
         <mxCell id="J6gc0nSnjGuluiYEr4Ak-7" edge="1" parent="1" source="J6gc0nSnjGuluiYEr4Ak-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="J6gc0nSnjGuluiYEr4Ak-6" value="">
@@ -34,7 +34,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J6gc0nSnjGuluiYEr4Ak-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="普惠部主任审核" vertex="1">
+        <mxCell id="J6gc0nSnjGuluiYEr4Ak-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=light-dark(#60A917,#408947);fontColor=#ffffff;strokeColor=#2D7600;" value="普惠部主任审核" vertex="1">
           <mxGeometry height="60" width="120" x="480" y="80" as="geometry" />
         </mxCell>
         <mxCell id="xAS4BuEmbP6closkldTm-4" edge="1" parent="1" source="J6gc0nSnjGuluiYEr4Ak-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xAS4BuEmbP6closkldTm-3" value="">
@@ -45,10 +45,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J6gc0nSnjGuluiYEr4Ak-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="业务端有权签字人" vertex="1">
+        <mxCell id="J6gc0nSnjGuluiYEr4Ak-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=light-dark(#60A917,#408947);fontColor=#ffffff;strokeColor=#2D7600;" value="业务端有权签字人" vertex="1">
           <mxGeometry height="60" width="120" x="680" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="xAS4BuEmbP6closkldTm-3" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="信贷提案pdf" vertex="1">
+        <mxCell id="xAS4BuEmbP6closkldTm-3" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=light-dark(#60A917,#408947);fontColor=#ffffff;strokeColor=#2D7600;" value="信贷提案pdf" vertex="1">
           <mxGeometry height="60" width="120" x="880" y="80" as="geometry" />
         </mxCell>
       </root>

@@ -18,17 +18,38 @@
         <mxCell id="J6gc0nSnjGuluiYEr4Ak-5" edge="1" parent="1" source="J6gc0nSnjGuluiYEr4Ak-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="J6gc0nSnjGuluiYEr4Ak-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xAS4BuEmbP6closkldTm-1" connectable="0" parent="J6gc0nSnjGuluiYEr4Ak-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="通过" vertex="1">
+          <mxGeometry relative="1" x="-0.2544" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="J6gc0nSnjGuluiYEr4Ak-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="网点主任/行长审核" vertex="1">
           <mxGeometry height="60" width="120" x="280" y="80" as="geometry" />
         </mxCell>
         <mxCell id="J6gc0nSnjGuluiYEr4Ak-7" edge="1" parent="1" source="J6gc0nSnjGuluiYEr4Ak-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="J6gc0nSnjGuluiYEr4Ak-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xAS4BuEmbP6closkldTm-2" connectable="0" parent="J6gc0nSnjGuluiYEr4Ak-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="通过" vertex="1">
+          <mxGeometry relative="1" x="-0.0191" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="J6gc0nSnjGuluiYEr4Ak-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="普惠部主任审核" vertex="1">
           <mxGeometry height="60" width="120" x="480" y="80" as="geometry" />
         </mxCell>
+        <mxCell id="xAS4BuEmbP6closkldTm-4" edge="1" parent="1" source="J6gc0nSnjGuluiYEr4Ak-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xAS4BuEmbP6closkldTm-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xAS4BuEmbP6closkldTm-5" connectable="0" parent="xAS4BuEmbP6closkldTm-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="通过" vertex="1">
+          <mxGeometry relative="1" x="-0.1956" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="J6gc0nSnjGuluiYEr4Ak-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="业务端有权签字人" vertex="1">
           <mxGeometry height="60" width="120" x="680" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xAS4BuEmbP6closkldTm-3" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="信贷提案pdf" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

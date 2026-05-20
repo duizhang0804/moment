@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="cZ-bNvbd1diT7xP7hJ6Q">
-    <mxGraphModel dx="1099" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2072" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,6 +50,15 @@
         </mxCell>
         <mxCell id="xAS4BuEmbP6closkldTm-3" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=light-dark(#60A917,#408947);fontColor=#ffffff;strokeColor=#2D7600;" value="信贷提案pdf" vertex="1">
           <mxGeometry height="60" width="120" x="880" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xAS4BuEmbP6closkldTm-10" edge="1" parent="1" source="xAS4BuEmbP6closkldTm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xAS4BuEmbP6closkldTm-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xAS4BuEmbP6closkldTm-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#A20025,#FF9999);fontColor=#ffffff;strokeColor=#6F0000;" value="存量客户“差异化”年审打分卡" vertex="1">
+          <mxGeometry height="60" width="120" x="-100" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xAS4BuEmbP6closkldTm-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#A20025,#FF9999);fontColor=#ffffff;strokeColor=#6F0000;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;生成&lt;span style=&quot;font-family: 宋体; text-align: justify; background-color: transparent;&quot;&gt;“差异化”年审项目&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
